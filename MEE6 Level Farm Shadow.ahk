@@ -19,7 +19,7 @@ Loop {
     Send, {Enter}
     Sleep, 100
     Send, {Enter}
-    Sleep, 3600
+    Sleep, 43600
 
 	MouseGetPos, PosX, PosY
 	If !((PosX = 0) && (PosY = 0))
