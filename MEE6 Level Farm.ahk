@@ -8,7 +8,8 @@ Loop {
     Random, rand, 1, Messages.MaxIndex()
     Send, % Messages[rand]
     Send, {Enter}
-	Sleep, 1000
+	Sleep, 45000
+    
 	MouseGetPos, PosX, PosY
 	If !((PosX = 0) && (PosY = 0))
 		Break
