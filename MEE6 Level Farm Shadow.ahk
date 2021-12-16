@@ -1,7 +1,7 @@
 #SingleInstance, Force
 CoordMode, Mouse, Screen
 
-Messages := ["Hi", "Hello There", "Kinda Ez", "Don't ask me what im doing", "Ez", "Yes", "Cringe", "ur bad", "I am a robot", "lessgo", "Imagine", "Free xp", "farm", "REEEE", "sus", "shrek"]
+Messages := ["Hi", "Hello There", "Kinda Ez", "Don't ask me what im doing", "Ez", "Yes", "Cringe", "ur bad", "I am a robot", "lessgo", "Imagine", "Free xp", "farm", "REEEE", "sus", "shrek", "https://www.github.com/Nater0214/MEE6-Level-Farm"]
 Sleep, 5000
 MouseMove, 0, 0
 Loop {
